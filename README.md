@@ -8,3 +8,14 @@
 <br/>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/460453969299243018.png)
+
+
+
+
+
+
+**Stats:**  
+
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=LIUZAZA007&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LIUZAZA007&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUZAZA007&theme=tokyonight&hide=batchfile">
